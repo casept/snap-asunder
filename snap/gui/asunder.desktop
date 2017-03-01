@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Asunder
+GenericName=Audio CD Ripper
+Comment=An application to save tracks from an Audio CD as WAV, MP3, OGG, FLAC, and/or Wavpack.
+Exec=asunder-casept.asunder %u
+Icon=${SNAP}/meta/gui/asunder.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
+MimeType=x-content/audio-cdda;
